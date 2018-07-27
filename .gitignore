@@ -1,0 +1,5 @@
+chains.json
+contracts/*
+dist/*
+node_modules/*
+.embark/*
