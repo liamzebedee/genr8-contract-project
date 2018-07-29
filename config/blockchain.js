@@ -49,10 +49,11 @@ module.exports = {
       password: "config/livenet/password"
     }
   },
+
   genr8: {
     enabled: true,
     networkType: "custom",
-    networkId: "420",
+    networkId: "15",
     rpcHost: "localhost",
     rpcPort: 8545,
     rpcCorsDomain: "http://localhost:8000",
