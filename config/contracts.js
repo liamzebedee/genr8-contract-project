@@ -32,8 +32,9 @@ module.exports = {
     ],
     gas: "auto",
     contracts: {
-      "GR8Token": {
+      "Token": {
         "args": {
+          "intial_balance": 100000
         }
       }
     }
